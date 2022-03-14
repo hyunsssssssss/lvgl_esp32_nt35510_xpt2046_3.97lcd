@@ -4,6 +4,11 @@
 
 ### 参考接线（可在vscode下部小齿轮中配置）：
 
+Compilation environment: vscode + esp-idf extension
+
+Using 8bit mode, you need to short-connect the screen R2 and R4 (move the 0Ω resistance of R3 to R2).
+
+Reference wiring (configurable in the lower pinion of vscode):
 
 | 屏幕 | ESP32 |
 | ---- | ---- |
